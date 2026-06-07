@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou NITRADOS Br 👋</h1>
+<h1 align="center">Olá, eu sou Gabriel 👋</h1>
 
 <p align="center">
   Desenvolvedor focado em aplicativos Android, interfaces modernas, sistemas interativos e tecnologia.

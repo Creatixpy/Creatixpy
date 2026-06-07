@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="COLE_SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Creatixpy">
+    <img src="https://img.shields.io/badge/GitHub-Creatixpy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/gabzinxcr?igsh=ZDF3OHNydTV0Ym1l" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="mailto:financeironitrados@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/financeironitrados">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -34,8 +34,8 @@ Sou um desenvolvedor em constante evolução, criando projetos próprios com foc
 
 ## 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,js,html,css,git,github,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,js,ts,html,css,git,github,vscode,linux" />
 </p>
 
 ---
@@ -55,11 +55,11 @@ Sou um desenvolvedor em constante evolução, criando projetos próprios com foc
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Creatixpy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Creatixpy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatixpy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatixpy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,24 +67,24 @@ Sou um desenvolvedor em constante evolução, criando projetos próprios com foc
 ## 🔥 Atividade
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=financeironitrados&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Creatixpy&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Contato
 
-<p>
-  Você pode falar comigo pelo LinkedIn ou pelo e-mail:
+<p align="center">
+  Você pode falar comigo pelo Instagram ou pelo e-mail:
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-pereira-rodrigues-1672753b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.instagram.com/gabzinxcr?igsh=ZDF3OHNydTV0Ym1l" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Enviar mensagem-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="mailto:creatixpy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Enviar mensagem-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:financeironitrados@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

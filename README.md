@@ -52,26 +52,6 @@ Sou um desenvolvedor em constante evolução, criando projetos próprios com foc
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Creatixpy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-</p>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatixpy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Atividade
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Creatixpy&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Contato
 
 <p align="center">

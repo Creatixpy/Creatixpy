@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou NITRADOS Br 👋</h1>
 
-<!--
-**Creatixpy/Creatixpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor focado em aplicativos, interfaces modernas e tecnologia.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 💻 Estou desenvolvendo aplicativos Android
+- 🎮 Tenho interesse em jogos, notícias e sistemas interativos
+- 🔐 Gosto de trabalhar com segurança, performance e design moderno
+- 📱 Atualmente criando projetos próprios para Android
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,js,html,css,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="left">
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>

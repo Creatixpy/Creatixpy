@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Core%20Contributor-node--pg--migrate-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
 
-  <a href="mailto:financeironitrados@gmail.com">
+  <a href="mailto:creatixpy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -91,7 +91,7 @@ A modern Android application focused on user experience, organized architecture,
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:financeironitrados@gmail.com">
+  <a href="mailto:creatixpy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Message%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

@@ -1,12 +1,16 @@
 <h1 align="center">Hello, I'm Gabriel 👋</h1>
 
 <p align="center">
-  Developer focused on Android applications, modern interfaces, interactive systems, and open source development.
+  Core Contributor at <a href="https://github.com/salsita/node-pg-migrate"><strong>node-pg-migrate</strong></a> • Developer focused on Android applications, PostgreSQL tooling, modern interfaces, and open source software.
 </p>
 
 <p align="center">
   <a href="https://github.com/Creatixpy">
     <img src="https://img.shields.io/badge/GitHub-Creatixpy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://salsita.github.io/node-pg-migrate/team">
+    <img src="https://img.shields.io/badge/Core%20Contributor-node--pg--migrate-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
 
   <a href="mailto:financeironitrados@gmail.com">
@@ -18,54 +22,49 @@
 
 ## 🚀 About Me
 
-I am a developer constantly evolving, building my own projects and contributing to open source projects.
+I am a developer constantly evolving, building my own projects and actively maintaining open source infrastructure.
 
-My focus is on Android development, modern interfaces, performance, security, and creating digital experiences with high-quality code.
+My focus is on open source tooling, PostgreSQL ecosystems, Android development, modern interfaces, performance, and application security.
 
+- 🐘 **Core Contributor & Collaborator** at [node-pg-migrate](https://github.com/salsita/node-pg-migrate) (1.2M+ weekly npm downloads)
 - 📱 Android application development
-- 🌎 Contributing to open source projects
 - 🎨 Modern interfaces and user experiences
 - 🔐 Application security, code protection, and best practices
 - ⚡ Application performance and optimization
-- 🧠 Always learning new technologies
 
 ---
 
-## 🌎 Open Source
+## 🌎 Open Source Leadership & Contributions
 
-Currently contributing to community projects:
+### 🐘 [node-pg-migrate](https://github.com/salsita/node-pg-migrate) — **Core Contributor** ([Team Page](https://salsita.github.io/node-pg-migrate/team))
+Active collaborator with write access, maintaining and shaping the upcoming **v10.0.0** release with **40+ merged PRs**:
+- **CLI & Developer Experience:** Implemented the `migration status` CLI command, SQL `no-transaction` directives, and in-memory migration execution.
+- **PostgreSQL Features:** Added support for table child partitions, reusable column check constraints, BRIN indexes, index storage parameters, and RLS policy enhancements.
+- **Reliability & Security:** Hardened transaction isolation, schema preservation across rename operations, identifier escaping, and SSL verification controls.
 
-- 🐘 **node-pg-migrate** — schema handling improvements, tests, and bug fixes
-- 🛠️ **ToolJet** — improvements and fixes in an enterprise open source project
-- 📦 **typescript-transform-paths** — documentation and testing improvements
-
-Focused on:
-
-- Bug fixes
-- Automated testing
-- Architecture improvements
-- Technical documentation
+### Other Community Contributions
+- 🛠️ **[ToolJet](https://github.com/ToolJet/ToolJet)** — improvements and bug fixes in an enterprise open source platform
+- 📦 **[typescript-transform-paths](https://github.com/LeDDGroup/typescript-transform-paths)** — documentation and automated testing improvements
 
 ---
 
 ## 🛠️ Technologies and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,js,ts,react,nodejs,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgres,androidstudio,kotlin,java,react,html,css,git,github,vscode,linux" />
 </p>
 
 ---
 
 ## 📌 Areas of Interest
 
+- 🗄️ Databases, SQL & Migration Tooling
 - 📱 Android Development
 - ⚛️ React and React Native
 - 🎨 UI/UX Design
 - 🌐 Modern web applications
-- 🗄️ Systems and databases
 - 🤖 Automation and artificial intelligence
-- 🔐 Application security
-- ⚡ Performance and optimization
+- 🔐 Application security & performance
 
 ---
 
